@@ -22,8 +22,7 @@ title: LiAh Sheep
 
 ## Side Projects
 
-- [香港天氣資訊中心](http://www.weather.com.hk/)
-  ⋅ [FB](https://www.facebook.com/weather.com.hk/)
+- [香港天氣資訊中心](http://www.weather.com.hk/) ⋅ [FB](https://www.facebook.com/weather.com.hk/)
   {% include facebook_like_button.html page_id="weather.com.hk" %}
     - PHP
     - Regular expression
@@ -41,8 +40,7 @@ title: LiAh Sheep
     - CSS
     - Photoshop
     
-- [勉強日語](http://benkyou-japanese.blogspot.com/)
-  ⋅ [FB](https://www.facebook.com/benkyou.japanese/)
+- [勉強日語](http://benkyou-japanese.blogspot.com/) ⋅ [FB](https://www.facebook.com/benkyou.japanese/)
   {% include facebook_like_button.html page_id="benkyou.japanese" %}
     - Blogspot
     - CSS
