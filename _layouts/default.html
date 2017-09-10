@@ -16,14 +16,12 @@
     <div class="wrapper">
       <header>
         <h1>{{ site.title }}</h1>
-        <p>{{ site.biography }}</p>
-        {% if site.hashtags %}
-          <p>
-          {% for hashtag in site.hashtags %}
+        <p>{{ site.data.me.biography }}</p>
+        <p>
+          {% for hashtag in site.data.me.hashtags %}
             #{{ hashtag }}
           {% endfor %}
-          </p>
-        {% endif %}
+        </p>
       </header>
       <section>
 
