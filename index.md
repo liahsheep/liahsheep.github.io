@@ -2,6 +2,16 @@
 title: LiAh Sheep
 ---
 
+[//]: # Only open to those who view the source code...
+[//]: #
+[//]: # ## Background
+[//]: #
+[//]: # - 2005–2009 HKUST
+[//]: #   - Dual Degree Program in Technology and Management
+[//]: #   - BEng (Computer Engineering) & BBA (General Business Management)
+[//]: # - 2007–2008 Sophia University, Tokyo
+[//]: #   - International Exchange Program
+
 ## Experiences
 
 - Entrepreneur
@@ -13,9 +23,11 @@ title: LiAh Sheep
 ## Side Projects
 
 - [香港天氣資訊中心 (weather.com.hk)](http://www.weather.com.hk/)
+  {% include facebook_like_button.html page_id="weather.com.hk" %}
     - PHP
     - Regular expression
     - `file_get_contents`
+    - Social media
 
 - [Brandelion](http://brandelion.co/)
     - Middleman (Ruby)
@@ -29,10 +41,11 @@ title: LiAh Sheep
     - Photoshop
     
 - [勉強日語](http://benkyou-japanese.blogspot.com/)
-    - Social media
-    - Article images
+  {% include facebook_like_button.html page_id="benkyou.japanese" %}
     - Blogspot
     - CSS
+    - Photoshop
+    - Social media
     - Contents by Benjamin
 
 - [LiAhSheep.com](http://liahsheep.com/)

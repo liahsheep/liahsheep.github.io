@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family:  -apple-system, 'Open Sans', 'Helvetica Neue', Helvetica, Arial,
+                'PingFang HK', '冬青黑体简体中文', 'Hiragino Sans GB',
+                '微軟正黑體', 'Microsoft JhengHei',
+                '新細明體', PMingLiU, sans-serif;
+}
+
 h1 {
   padding-top: 138px;
   background-image: url({{ '/assets/images/liah.png' | relative_url }});
