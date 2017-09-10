@@ -37,6 +37,7 @@ title: LiAh Sheep
 
 - [LiAhSheep.com](http://liahsheep.com/)
     - GitHub Pages
+    - Jekyll
     - Markdown
     
 ## Languages
@@ -47,7 +48,7 @@ title: LiAh Sheep
     - Chinese
     - Japanese
         
-- For computers</div>
+- For computers
     - Ruby (on Rails)
     - JavaScript (CoffeeScript preferred)
     - HTML (Slim preferred)

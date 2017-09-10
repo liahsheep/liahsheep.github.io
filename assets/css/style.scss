@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
-.wrapper .view {
-  display: none;
+h1 {
+  padding-top: 138px;
+  background-image: url({{ '/assets/images/liah.png' | relative_url }});
+  background-size: 128px 128px;
+  background-repeat: no-repeat;
 }
