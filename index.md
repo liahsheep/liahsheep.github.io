@@ -2,16 +2,6 @@
 title: LiAh Sheep
 ---
 
-[//]: # Only open to those who view the source code...
-[//]: #
-[//]: # ## Background
-[//]: #
-[//]: # - 2005–2009 HKUST
-[//]: #   - Dual Degree Program in Technology and Management
-[//]: #   - BEng (Computer Engineering) & BBA (General Business Management)
-[//]: # - 2007–2008 Sophia University, Tokyo
-[//]: #   - International Exchange Program
-
 ## Experiences
 
 - Entrepreneur
