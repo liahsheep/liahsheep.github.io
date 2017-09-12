@@ -64,6 +64,7 @@ title: LiAh Sheep
 - Apple Magic Mouse
 - Sublime Text
 - Safari
+- Git
 
 ## Contact
 
